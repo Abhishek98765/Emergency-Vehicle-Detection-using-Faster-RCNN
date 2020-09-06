@@ -4,7 +4,7 @@
 Hack Vista Hackathon
 Team members- Kaushik S and Abhishek Raman
 
-Problem Statement and solution- We propose a model that employs real time image processing for detection of emergency vehiclesusing a convolutional neural network (CNN) architecture called Faster RCNN. The signal control unit can be programmed to terminate the round robin sequence preferentially upon detection of an emergency vehicle.
+Problem Statement and solution- We propose a model that employs real time image processing for detection of emergency vehicles using a convolutional neural network (CNN) architecture called Faster RCNN. The signal control unit can be programmed to terminate the round robin sequence preferentially upon detection of an emergency vehicle.
 The described problem is addressed by training a Faster RCNN on a dataset  of images of ambulances in the Indian context. The deep learning platform used for training was TensorFlow, which is offered as a library in Python. 
 
 Dependencies- Keras, Tensorflow, utils, numpy
