@@ -1,5 +1,5 @@
-# Emergency-Vehicle-Detection-using-Faster-RCNN
-## Implementing Faster RCNNs to detect emergency vehicles on Indian roads
+# Emergency-Vehicle-Detection-using-Convolution Neural Networks
+## Implementing CNNs to detect emergency vehicles on Indian roads
 
 Hack Vista Hackathon
 Team members- Kaushik S and Abhishek Raman
